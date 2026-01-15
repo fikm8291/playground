@@ -10,7 +10,8 @@
         "MS-vsliveshare.vsliveshare",
         "streetsidesoftware.code-spell-checker",
         "oderwat.indent-rainbow",
-        "zhuangtongfa.Material-theme"
+        "zhuangtongfa.Material-theme",
+        "ritwickdey.LiveServer"
       ]
     }
   }
